@@ -1,0 +1,53 @@
+P{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.arial{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(143, 127, 140);
+}
+
+.centertext{
+    text-align: center;
+}
+.contactme{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #014421;
+}
+li{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.footer{
+    bottom: 5px;
+    height: 50px;
+    left: 5px;
+    right: 5px;
+    font-size: 10px;
+    text-align: center;
+    position: fixed;
+
+}
+
+.italic{
+    font-style: italic;
+}
+
+
+
+a:hover{text-decoration: underline;
+    font-weight: bold;
+    color: #014421;}
+
+.bootcolor{
+    color: cadetblue;
+}
+
+.aboutmesubheader{
+    color: rgb(250, 124, 223)
+}

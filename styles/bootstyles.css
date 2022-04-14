@@ -1,0 +1,64 @@
+.tableauheader{
+  position: relative;
+  margin-bottom: 50px;
+  padding-top: 80px;
+  padding-bottom: 100px;
+  background: center;
+  background-color: rgb(197, 134, 145);
+  background-size: cover;
+  background-attachment: scroll;
+}
+
+.headertext{
+    color: white;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+}
+
+.tableausubheader{
+    font-size: 25px;
+    font-weight: lighter;
+}
+
+.navigationmenu{
+position: relative;
+width: 100%;
+text-align: right;
+padding-right: 15px;
+
+}
+.navigationmenu a{
+color: white;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 16px;
+padding-right: 15px;
+}
+
+
+
+.graphwrapper{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.graphcaptions{
+    font-size: 16px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    color: black;}
+
+.tableaufooter{
+    bottom: 5px;
+    height: 50px;
+    left: 5px;
+    right: 5px;
+    font-size: 15px;
+    color: navy;
+    text-align: center;
+    position: fixed;
+}
+    
